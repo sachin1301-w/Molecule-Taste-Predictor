@@ -1,6 +1,6 @@
 Flask
 numpy
-sklearn
+scikit-learn
 pandas 
 matplotlib
 requests
@@ -8,3 +8,4 @@ tqdm
 time
 joblib
 gunicorn
+
